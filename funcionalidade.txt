@@ -1,5 +1,10 @@
 Alterar para
 Login
 Essa � o login inicial
+<<<<<<< HEAD
 2
 Essa é a funcionalidade de login
+=======
+Login Branch Final teste 
+teste1
+>>>>>>> login
